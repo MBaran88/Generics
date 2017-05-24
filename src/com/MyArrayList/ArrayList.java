@@ -3,7 +3,7 @@ package com.MyArrayList;
 /**
  * Created by RENT on 2017-05-24.
  */
-public class ArrayList {
+public class ArrayList <GenericsType> {
     private Object data;
 
     public void add(Object o) {
